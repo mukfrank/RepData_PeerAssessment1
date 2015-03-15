@@ -119,4 +119,4 @@ The resulting plots show a difference between weekend and weekday activity patte
 
 On the other hand, the weekday pattern is different. The general level of activity on a weekday is lower than for the same period of time on a weekend. 
 
-
+end

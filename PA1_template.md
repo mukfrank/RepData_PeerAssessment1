@@ -1,4 +1,5 @@
 Reproducible Research: Peer Assessment 1
+====================================================
 
 Load useful libraries.
 library (plyr)
